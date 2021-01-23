@@ -1,2 +1,1 @@
-# Pandas_Analysis
-Business analysis using Pandas
+Using basic filtering methods, we can see that males are by far the highest using gender of this game. People between the age of 20 and 24 are the highest amount of users and made the most amount of purchases. It might be advisable to market to the 20-24 year old male demographic with the highest priced and highest purchased items to increase revenue. 
